@@ -1,0 +1,25 @@
+.navbar{
+ width:90%;
+ height:60px;
+ display: flex;
+ margin:auto;
+ background-color: black;
+ justify-content: space-around;
+}
+img{
+width:200px;
+height: 40px;
+margin-top: 10px;
+}
+a{
+margin-top: 15px;
+text-decoration: none;
+color: white;
+}
+button{
+                     border-radius: 10px;
+                     background-color: aqua;
+                     width:100px;
+                     height:40px;
+                     margin-top: 10px;
+}
